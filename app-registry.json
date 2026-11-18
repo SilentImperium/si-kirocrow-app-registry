@@ -1,0 +1,14 @@
+[
+  {
+    "name": "si-local-inferencing",
+    "gitUrl": "https://github.com/SilentImperium/si-local-inferencing",
+    "repo": "https://github.com/SilentImperium/si-local-inferencing",
+    "branch": "main"
+  },
+  {
+    "name": "zens-aidlc",
+    "gitUrl": "https://github.com/SilentImperium/zens-aidlc",
+    "repo": "https://github.com/SilentImperium/zens-aidlc",
+    "branch": "main"
+  }
+]
